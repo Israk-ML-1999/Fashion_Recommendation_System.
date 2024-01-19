@@ -1,4 +1,4 @@
-# Fashion_Recommender_system.
+# Fashion_Recommendation_system.
 A Deep Learning based Fashion Recommender System using ResNET50, Here used the Fashion-Product-image-dataset for recommending items.
 # Dtaaset:
 The Fashion-Product-image-dataset provides a diverse collection of fashion images for training and testing the recommender system. For more information on the dataset, 
